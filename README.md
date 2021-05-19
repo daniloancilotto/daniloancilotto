@@ -1,4 +1,4 @@
-### Danilo Ancilotto 🐧
+### Danilo Ancilotto
 
 #### Knowledge
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="32"/>](https://cloud.google.com/)
@@ -20,3 +20,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32"/>](https://developer.mozilla.org/docs/Web/CSS)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="32"/>](https://spring.io/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="32"/>](https://vuejs.org/)
+
+#### Working On
+[<img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" width="32"/>](https://fxsistemas.app)
