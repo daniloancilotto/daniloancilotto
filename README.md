@@ -21,11 +21,11 @@
 <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="32"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="32"/></a>
 
-#### Working On
-<a href="https://fxsistemas.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="36"/></a>
-
 #### Social Media
+<a href="https://www.youtube.com/user/daniloancilotto" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" height="22"/></a>
 <a href="https://www.linkedin.com/in/daniloancilotto/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="28"/></a>
 <a href="https://twitter.com/daniloancilotto/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="28"/></a>
 <a href="https://www.instagram.com/daniloancilotto/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="28"/></a>
-<a href="https://www.youtube.com/user/daniloancilotto" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" height="28"/></a>
+
+#### Working On
+<a href="https://fxsistemas.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="36"/></a>
