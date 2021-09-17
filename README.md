@@ -1,4 +1,4 @@
-### Danilo Ancilotto
+## Danilo Ancilotto
 
 #### Knowledge
 <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="32"/></a>
