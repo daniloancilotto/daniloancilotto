@@ -4,10 +4,10 @@
 <a href="https://fxsistemas.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="36"/></a>
 
 #### Social Media
-<a href="https://www.youtube.com/c/daniloancilotto" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" height="22"/></a>
 <a href="https://www.linkedin.com/in/daniloancilotto/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="28"/></a>
-<a href="https://twitter.com/daniloancilotto/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="28"/></a>
+<a href="https://www.youtube.com/c/daniloancilotto" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" height="22"/></a>
 <a href="https://www.instagram.com/daniloancilotto/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="28"/></a>
+<a href="https://twitter.com/daniloancilotto/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="28"/></a>
 
 #### Knowledge
 <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="32"/></a>
